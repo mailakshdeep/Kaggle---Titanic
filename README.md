@@ -7,7 +7,9 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
 
-So here I propose a two simple machine learning solution using Logistic Regression and Random Forest respectively to the specied problem. It is ideal for those new to data science and machine learning. 
+So here I propose a two simple machine learning solution using Logistic Regression and Random Forest respectively to the specied problem. 
+Another solution using Logistic Regression, Random Forest and Gradient Boosting Machines using Caret Package is added.
+It is ideal for those new to data science and machine learning. 
 
 Installation
 
@@ -28,5 +30,5 @@ The codes are to be run and executed in the specied order.
 2. FeatureEngineering1.R
 3. MissingValues.R
 4. FeatureEngineering2.R
-5. Prediction.R
+5. Prediction.R or PredictionCaret.R which uses Caret package for making predictions
 
