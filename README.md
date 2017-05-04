@@ -32,3 +32,5 @@ The codes are to be run and executed in the specied order.
 4. FeatureEngineering2.R
 5. Prediction.R or PredictionCaret.R which uses Caret package for making predictions
 
+
+The best solution out of the proposed ones i.e  Random Forest using Caret with Repeated Cross Validation achieved a score of 0.80383.
